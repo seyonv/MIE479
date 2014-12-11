@@ -1,0 +1,1 @@
+run inflation_MSVAR_3

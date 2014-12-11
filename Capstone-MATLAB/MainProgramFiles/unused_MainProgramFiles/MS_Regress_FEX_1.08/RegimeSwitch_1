@@ -1,0 +1,7 @@
+
+clear;
+
+addpath('m_Files'); % add 'm_Files' folder to the search path
+addpath('data_Files');
+
+

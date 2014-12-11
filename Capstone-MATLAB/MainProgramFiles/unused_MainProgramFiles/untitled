@@ -1,0 +1,12 @@
+function [inf_data] = fetch_inflation_data(s_year,e_year,s_month,e_month)
+
+	s_year=insert_start_year-1914;
+	e_year=insert_end_year-1914;
+	inf_data=csvread('inflation_excel_stuff.csv',...
+					s_year,s_month,[s_year,s_month,e_year,e_month]);
+
+	inf_data=inf_data';
+	inf_data=inf_data(:);
+
+
+end

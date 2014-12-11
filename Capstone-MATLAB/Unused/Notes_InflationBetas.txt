@@ -1,0 +1,25 @@
+Notes on Inflation and Individual Equities (Andrew Ang & co.)
+——————————————————————————————————————————————————————————————————
+-time variation of stock inflation betas is substantial
+
+-GOAL: constructing portfolios based on individual stocks whose returns covary strongly with inflation(this has the potential to provide a much better inflation hedge than the aggregate market)
+—Although overall stock market may be poor inflation hedge, companies in certain sectors or with certain characteristics may have better inflation hedging properties than other companies
+
+-Generally, non-cyclical stocks covary positively with inflation where the contrary is true for cyclical stocks
+-Natural resources stocks are also considered good inflation hedgers
+
+-To measure the inflation hedging ability of individual stocks, compute stock-level inflation betas using the Bekaert and Wang method and then group stocks into portfolios ranking on inflation betas.
+—-we rank stocks into quintile portfolios, based on realized, ex-post inflation betas
+
+The quintile portfolio with the highest ex-post inflation beta has had a positive correlation with inflation and has an inflation beta of 1.65
+
+Note that inflation betas exhibit pronounced time variation. As many as 20% of stocks, on average, exhibit sign change in inflation betas from year to year.
+——————————————————————————————————————————————————————————————————
+TABLE OF CONTENTS
+—Section 2: defines inflation betas and how we construct our portfolios
+-Section 3: examines the inflation hedging ability of stocks acorss the entire sample
+-Section 4: discuss the performance of stocks constructed on observabl, past inflation loadings
+-Section 4: examining how sector and high-dividend paying stocks covary with inflation
+
+——————————————————————————————————————————————————————————————————
+Section 2: Inflation-Hedging measures
